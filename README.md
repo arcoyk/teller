@@ -1,2 +1,6 @@
 # teller
-css for graspable grid system design.
+is a div debugger which shows div border without offset for itself.
+
+Giving margins in css grid system is a basic method to create beautiful UI, but multiple div tags often goes to mess. Teller makes div tag borders visible for graspable grid system for UI designer. Unlike convensional border visualization with border attributes of div tag, teller does'nt require pixels for border, attach bordered image on the backgroundImage.
+
+'<link href="teller.css" rel="stylesheet" type="text/css">'
